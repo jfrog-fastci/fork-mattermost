@@ -1,3 +1,6 @@
 {
-    "accept_terms": "yes"
+    "accept_terms": "yes",
+    "insights": {
+        "create_issues": true
+    }
 }
